@@ -11,3 +11,6 @@ I'm starting my coding journey and will keep updating this repo.
 - C
 - Python
 - Git & GitHub
+
+## 🧮 Calculator Project
+A simple Python calculator that performs basic operations.
